@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "VIRA_BOT",
+    "username": "CreeperAi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "drum.aternos.host",
-    "port": 16137,
+    "ip": "NeonetSMP.aternos.me",
+    "port": 24817,
     "version": "1.20.1",
     "try-creative": false
   },
